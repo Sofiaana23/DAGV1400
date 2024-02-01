@@ -13,7 +13,7 @@ namespace MyApplication
         // displaying them to the console.
 
         // Declaration and Initialization
-        int integerVariable = 1;
+        int integerVariable = 12;
         bool booleanVariable = true;
         float floatingPointVariable = 3.14f;
         string stringVariable = "Hello World";
